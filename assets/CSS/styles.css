@@ -41,6 +41,18 @@ html {
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+.ui-menu-color-download {
+    background-color: #d9a81d;
+}
+
 /*SPECIAL PADDINGS/MARGINS/TEXT*/
 
 h1, h2, h3, h4 {
@@ -358,6 +370,12 @@ button[type="submit"] {
     margin-bottom: 2rem;
     color: #fafafa;
     background-color: #e84610;
+}
+
+/* INTERETS PAGE */
+
+#map {
+    min-height: 360px;
 }
 
 /*MEDIA QUERIES*/
